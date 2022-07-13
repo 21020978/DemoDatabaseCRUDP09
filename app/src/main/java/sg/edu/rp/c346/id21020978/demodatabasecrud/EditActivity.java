@@ -23,7 +23,7 @@ public class EditActivity extends AppCompatActivity {
         setContentView(R.layout.activity_edit);
 
         tvID = findViewById(R.id.tvID);
-        etContent = findViewById(R.id.etContent2);
+        etContent = findViewById(R.id.etContent);
         btnUpdate = findViewById(R.id.btnUpdate);
         btnDelete = findViewById(R.id.btnDelete);
 
